@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alnaddyfatayat9-cmyk.github.io/vb-bvc/sitemap.xml
